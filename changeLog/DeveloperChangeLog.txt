@@ -1,0 +1,27 @@
+﻿GlobalVar Change Log 
+Version 1.0.0.0 [20160825] 
+- Create variables for _path.  
+- Create variables for _fileName. 
+- Create constructor for GlobalVar.
+- Create property Path(). 
+- Create property FileName(). 
+
+
+Version 1.0.0.1 [20160924] 
+- Generealize GlobalVar module to use list of object. 
+- 
+- 
+
+
+Version 1.0.0.2 [201609**] 
+- 
+- 
+
+
+
+
+
+
+
+
+

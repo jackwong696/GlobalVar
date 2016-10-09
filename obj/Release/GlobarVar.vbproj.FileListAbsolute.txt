@@ -1,0 +1,10 @@
+C:\Users\User\Documents\WWJ Software Solution\Lib\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Release\GlobarVar.Resources.resources
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Release\GlobarVar.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Release\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Release\GlobarVar.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Lib\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Release\GlobarVar.Resources.resources
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Release\GlobarVar.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Release\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Release\GlobarVar.vbprojResolveAssemblyReference.cache

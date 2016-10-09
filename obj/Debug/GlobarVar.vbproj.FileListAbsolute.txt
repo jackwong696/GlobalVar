@@ -1,0 +1,16 @@
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\bin\Debug\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\bin\Debug\GlobarVar.pdb
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\bin\Debug\GlobarVar.xml
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Debug\GlobarVar.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Debug\GlobarVar.Resources.resources
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Debug\GlobarVar.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Debug\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Debug\GlobarVar.xml
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\GlobarVar\obj\Debug\GlobarVar.pdb
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\bin\Debug\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\bin\Debug\GlobarVar.pdb
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Debug\GlobarVar.Resources.resources
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Debug\GlobarVar.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Debug\GlobarVar.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Debug\GlobarVar.pdb
+C:\Users\User\Documents\WWJ Software Solution\Projects\GlobarVar\obj\Debug\GlobarVar.vbprojResolveAssemblyReference.cache

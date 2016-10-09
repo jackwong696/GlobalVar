@@ -1,0 +1,22 @@
+﻿GlobalVar Change Log 
+Version 1.0.0.0 [20160825]
+- GlobalVar module for batchRunner only. [Solve] 
+
+
+Version 1.0.0.1 [20160924] 
+- Generallize GlobalVar module for more projects support. 
+- 
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
